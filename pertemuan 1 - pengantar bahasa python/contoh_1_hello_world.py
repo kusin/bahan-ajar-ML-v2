@@ -1,12 +1,11 @@
 # PROGRAM hello world
-
+# program akan menampilkan hello world pada cmd
 
 # DEKLARASI Pustaka
-import os
+# - 
 
+# ALGORITMA
 if __name__ == "__main__":
     
-    # Clearing the Screen
-    #os.system('cls')
-
+    # keluaran program
     print("hello world")
